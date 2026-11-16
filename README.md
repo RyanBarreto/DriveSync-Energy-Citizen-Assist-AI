@@ -5,9 +5,8 @@
 > **Status:** protótipo funcional de software com dados ilustrativos. Faltam validação dos valores locais, testes reais com usuários, nomes/RMs e publicação dos links finais.
 
 ## Equipe
-- [NOME COMPLETO] — RM [PREENCHER]
-- [NOME COMPLETO] — RM [PREENCHER]
-
+- Ryan Barreto Carlos Dias - RM: 574126
+- Fernando Henrique Lembo - RM: 570228
 ## Problema e público
 Gestores municipais e equipes de manutenção precisam comparar o consumo e os custos de operação de semáforos, sensores e controles, e avaliar a viabilidade de alternativas renováveis. O DriveSync Energy integra um **assistente digital de orientação energética** ao projeto DriveSync, que já possui simulação semafórica e telemetria.
 
