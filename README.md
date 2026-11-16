@@ -1,6 +1,6 @@
 # DriveSync Energy — Citizen Assist AI
 
-**Global Solution | Ciência da Computação — Turmas 1CC | Soluções em Energias Renováveis e Sustentáveis**
+**Global Solution | Ciência da Computação — Turmas 1CCA | Soluções em Energias Renováveis e Sustentáveis**
 
 > **Status:** protótipo funcional de software com dados ilustrativos. Faltam validação dos valores locais, testes reais com usuários, nomes/RMs e publicação dos links finais.
 
@@ -45,14 +45,7 @@ entrega/ENTREGA_MODELO.txt                        # único arquivo a entregar no
 - Valores **não são dados reais de campo** e não podem ser apresentados como resultados observados.
 - Fórmulas, alternativas, justificativas, viabilidade, impacto ambiental, referências e limites: [ANALISE_ENERGETICA.md](documentacao/ANALISE_ENERGETICA.md).
 - O assistente é determinístico: perguntas fora das categorias respondem com instruções, não inventam cálculos.
-
-## Pendências obrigatórias antes de entregar
-- [ ] Preencher nomes completos e RMs.
-- [ ] Validar potências com fichas técnicas, tarifa e irradiação com fontes específicas e datas.
-- [ ] Registrar testes reais e ajustes no arquivo `testes/PLANO_E_REGISTRO.md`.
-- [ ] Publicar o repositório no GitHub e conferir acesso.
-- [ ] Gravar o vídeo não listado, com até 3 minutos, e conferir acesso.
-- [ ] Preencher `entrega/ENTREGA_MODELO.txt` e enviar **somente o TXT** no portal.
+- 
 
 ## Referências institucionais
 - [ANEEL](https://www.gov.br/aneel/pt-br)
