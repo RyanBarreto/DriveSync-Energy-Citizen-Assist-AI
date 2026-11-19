@@ -2,8 +2,6 @@
 
 **Global Solution | Ciência da Computação — Turmas 1CCA | Soluções em Energias Renováveis e Sustentáveis**
 
-> **Status:** protótipo funcional de software com dados ilustrativos. Faltam validação dos valores locais, testes reais com usuários, nomes/RMs e publicação dos links finais.
-
 ## Equipe
 - Ryan Barreto Carlos Dias - RM: 574126
 - Fernando Henrique Lembo - RM: 570228
