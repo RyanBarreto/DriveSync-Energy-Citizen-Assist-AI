@@ -1,9 +1,0 @@
-Nome completo e RM dos integrantes:
-- [NOME COMPLETO] — RM [NÚMERO]
-- [NOME COMPLETO] — RM [NÚMERO]
-
-Link do repositório GitHub:
-[COLE O LINK]
-
-Link do vídeo técnico no YouTube (não listado):
-[COLE O LINK]
