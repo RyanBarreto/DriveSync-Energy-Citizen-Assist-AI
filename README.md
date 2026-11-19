@@ -16,27 +16,6 @@ Gestores municipais e equipes de manutenção precisam comparar o consumo e os c
 - Referências institucionais e alertas de hipóteses.
 - Preservação do site original: laboratório semafórico, dashboard, integração Supabase e função Netlify/Google Routes API.
 
-## Como executar
-1. Abra o projeto no VS Code.
-2. Para testar somente o módulo de energia, sirva a pasta com `python -m http.server 8000` e acesse `http://localhost:8000`.
-3. Para a telemetria Google Routes, configure `GOOGLE_MAPS_API_KEY` no ambiente Netlify e use `netlify dev` ou deploy. A função está em `netlify/functions/maps.js`.
-4. O módulo de energia funciona **sem chave de API** e sem Supabase.
-5. Para publicar no GitHub, crie um repositório e envie os arquivos **desta pasta na raiz**.
-
-## Estrutura
-```text
-index.html / style.css / script.js / simulator.js  # DriveSync original
-energy.js                                         # cálculo e assistente
-netlify.toml / netlify/functions/maps.js          # Google Routes API
-README.md                                         # projeto e execução
-dados/premissas_exemplo.csv                       # parâmetros e origem
-dados/exemplo_calculado.json                      # resultado de referência
-documentacao/ANALISE_ENERGETICA.md                # fórmulas, comparação, limites e fontes
-documentacao/ROTEIRO_VIDEO_3_MIN.md               # vídeo pronto para gravação
-testes/PLANO_E_REGISTRO.md                        # roteiro e tabela de testes (pendentes)
-entrega/ENTREGA_MODELO.txt                        # único arquivo a entregar no portal
-```
-
 ## Reprodutibilidade e transparência
 - Exemplo hipotético: 200 W × 720 h / 1000 = **144 kWh/mês**; tarifa R$ 0,90/kWh → **R$ 129,60/mês**.
 - Fonte solar hipotética: 1 kWp × 4,5 h/dia × 30 × 0,75 = **101,25 kWh/mês**.
